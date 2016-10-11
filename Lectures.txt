@@ -1,0 +1,11 @@
+	Лекция 1:
+	- Васил Бушнаков 
+	
+	- 90% от въпросите на интервю за ECMAScript5 или 6
+	- Node.js - вече JavaScript се изпълнява и на сървър
+	- Electron заедно с Node
+	- Atom едитор
+	- https://jsfiddle.net/
+	- SourceTree
+	- console --> GitBash / cmder
+	- codepen
